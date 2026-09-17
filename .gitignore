@@ -1,0 +1,12 @@
+*.exe
+*.tmp
+node_modules/
+
+!node_modules/core-utils/
+
+*.log
+!apache/*.log
+
+/bin/
+
+dist/**/tmp*
